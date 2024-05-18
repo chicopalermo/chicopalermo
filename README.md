@@ -38,8 +38,6 @@
 </p>
 
 
-![snake gif](https://github.com/chicopalermo/chicopalermo/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
