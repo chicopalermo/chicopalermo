@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<h3 align="center">Hey there, I'm <a href="https://github.com/chicopalermo">chicopalermo</a></h3>
-<h5 align="center">I am a Information Systems professional with extensive experience in full-stack development, team leadership, and project management at Drakkar Agrotechnologies.</h5>
+<h2 align="center">Hey there, I'm <a href="https://github.com/chicopalermo">chicopalermo</a></h2>
+<h4 align="center">I am a Information Systems professional with extensive experience in full-stack development, team leadership, and project management at Drakkar Agrotechnologies.</h4>
  
 ## Top Respositorys
   <p align="left">
