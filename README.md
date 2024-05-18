@@ -1,6 +1,6 @@
 ## Introduction
 <h3 align="center">Hey there, I'm <a href="https://github.com/chicopalermo">chicopalermo</a></h3>
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<h5 align="center">I am a Information Systems professional with extensive experience in full-stack development, team leadership, and project management at Drakkar Agrotechnologies.</h5>
  
 ## Top Respositorys
   <p align="left">
@@ -24,11 +24,6 @@
 
 <p align="left"> <a href="https://github.com/chicopalermo"><img src="https://skillicons.dev/icons?i=docker,aws,prisma,openstack,nestjs,angular,express,react,nodejs"> </a> </p>
 
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=chicopalermo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
 ## Activity On GitHub
 
 <p align="center">
@@ -36,6 +31,13 @@
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chicopalermo&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=chicopalermo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+
 
 
 
