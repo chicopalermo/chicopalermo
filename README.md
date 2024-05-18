@@ -22,7 +22,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/chicopalermo"><img src="https://skillicons.dev/icons?i=docker,aws,prisma,openstack,nestjs,angular,express,react,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/chicopalermo"><img src="https://skillicons.dev/icons?i=docker,aws,prisma,openstack,nestjs,angular,express,react,nodejs,js,html,css,vscode"> </a> </p>
 
 ## Activity On GitHub
 
